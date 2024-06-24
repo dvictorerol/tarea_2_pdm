@@ -4,6 +4,8 @@ Integrantes:
 
 - Daniela Victorero
 
+Link video: https://drive.google.com/file/d/10XcqE99GYiU-Z38vgGbdqteGY96x1IeS/view?usp=sharing
+
 Instrucciones:
 
 - Abrir el notebook t2_pdm.ipynb en Google Colab
